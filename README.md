@@ -18,7 +18,7 @@ Welcome to the Weather App! This React application allows you to search for the 
 
 ## Screenshots
 
-![Weather App Screenshot]("C:\Users\Dhivakar\OneDrive\Pictures\Screenshots\Screenshot (624).png")
+![Weather App Screenshot]
 
 ## Installation
 
@@ -58,6 +58,7 @@ Welcome to the Weather App! This React application allows you to search for the 
 
 - **SearchBar**: Contains the input box and search icon for entering the city name.
 - **WeatherInfo**: Displays the weather image, temperature, wind speed, and humidity.
+![Screenshot (623)](https://github.com/user-attachments/assets/ec22335a-97ae-46e2-be95-58fab32593ae)
 
 ## API Integration
 
@@ -74,8 +75,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - [OpenWeatherMap](https://openweathermap.org) for providing the weather data.
-- weather app screenshot ("C:\Users\Dhivakar\OneDrive\Pictures\Screenshots\Screenshot (624).png")
+- weather app screenshot 
 
 ---
 
-Feel free to customize this README file according to your project specifics and preferences.
+Feel free to customize this README file acco![Screenshot (624)](https://github.com/user-attachments/assets/8aba4b15-51eb-45c0-bbff-19b02754f9df)
+rding to your project specifics and preferences.
